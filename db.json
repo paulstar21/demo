@@ -1,25 +1,10 @@
 {
   "incidents": [
-    { "id": 1758473, "title": "Something Broke", 
-                "description": "When I went to do something it broke something!", 
-                "dateraised": "12/05/2017",
-                "status": "Open",
-                "raisedby": "Bob",
-                "assignedto": "Jim"
+    { "id": 1758473, "title": "Something Broke"
     },
-    { "id": 5625343, "titles": "The deal went bad", 
-                "description": "I lost all the money, sorry", 
-                "dateraised": "31/11/2017",
-                "status": "Urgent",
-                "raisedby": "Tim",
-                "assignedto": "Mary"
+    { "id": 5625343, "titles": "The deal went bad"
     },
-    { "id": 2947432, "title": "Open Deal", 
-                "description": "I can't get this deal to complete, the system is down", 
-                "dateraised": "01/02/2018",
-                "status": "Open",
-                "raisedby": "Sue",
-                "assignedto": "Rob"
+    { "id": 2947432, "title": "Open Deal"
     }
   ]
 }
