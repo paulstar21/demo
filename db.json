@@ -2,7 +2,7 @@
   "incidents": [
     { "id": 1758473, "title": "Something Broke"
     },
-    { "id": 5625343, "titles": "The deal went bad"
+    { "id": 5625343, "title": "The deal went bad"
     },
     { "id": 2947432, "title": "Open Deal"
     }
