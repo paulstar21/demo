@@ -22,4 +22,8 @@
                 "assignedto": "Rob"
     }
   ]
+  "status":[
+    {"id": 1, "name": "Open", "description": "Always use when incident first raised"},
+    {"id": 2, "name": "Closed", "description": "use when the ticket is closed"}
+  ]
 }
