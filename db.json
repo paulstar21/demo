@@ -1,33 +1,40 @@
 {
   "incidents": [
-    { "id": 1758473, "title": "Something Broke", 
-                "description": "When I went to do something it broke something!", 
-                "dateraised": "12/05/2017",
-                "status": 1,
-                "raisedby": 1,
-                "assignedto": 2
+    { "Id": 1758473, "Title": "Something Broke", 
+                "Description": "When I went to do something it broke something!", 
+                "DateRaised": "12/05/2017",
+                "StatusId": 1,
+                "StatusName": "James"
+                "RaisedById": 1,
+                "RaisedByName": "Claire"
+                "AssignedTo": 2
     },
-    { "id": 5625343, "title": "The deal went bad", 
-                "description": "I lost all the money, sorry", 
-                "dateraised": "31/11/2017",
-                "status": 2,
-                "raisedby": 2,
-                "assignedto": 1
+    { "Id": 6546463, "Title": "Something Broke", 
+                "Description": "When I went to do something it broke something!", 
+                "DateRaised": "12/05/2017",
+                "StatusId": 1,
+                "StatusName": "James"
+                "RaisedById": 1,
+                "RaisedByName": "Claire"
+                "AssignedTo": 2
     },
-    { "id": 2947432, "title": "Open Deal", 
-                "description": "I can't get this deal to complete, the system is down", 
-                "dateraised": "01/02/2018",
-                "status": 1,
-                "raisedby": 1,
-                "assignedto": 2
+    { "Id": 9847362, "Title": "Something Broke", 
+                "Description": "When I went to do something it broke something!", 
+                "DateRaised": "12/05/2017",
+                "StatusId": 1,
+                "StatusName": "James"
+                "RaisedById": 1,
+                "RaisedByName": "Claire"
+                "AssignedTo": 2
     }
+    
   ],
   "status":[
-    {"id": 1, "name": "Open", "description": "Always use when incident first raised"},
-    {"id": 2, "name": "Closed", "description": "use when the ticket is closed"}
+    {"Id": 1, "Name": "Open", "Description": "Always use when incident first raised"},
+    {"Id": 2, "Name": "Closed", "Description": "use when the ticket is closed"}
   ],
   "teamMember":[
-    {"id": 1, "name": "James"},
-    {"id": 2, "name": "Claire"}
+    {"Id": 1, "Name": "James"},
+    {"Id": 2, "Name": "Claire"}
   ]
 }
