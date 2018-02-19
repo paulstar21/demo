@@ -6,7 +6,7 @@
                 "StatusId": 1,
                 "StatusName": "James"
                 "RaisedById": 1,
-                "RaisedByName": "Claire"
+                "RaisedByName": "Claire",
                 "AssignedTo": 2
     },
     { "Id": 6546463, "Title": "Something Broke", 
@@ -15,7 +15,7 @@
                 "StatusId": 1,
                 "StatusName": "James"
                 "RaisedById": 1,
-                "RaisedByName": "Claire"
+                "RaisedByName": "Claire",
                 "AssignedTo": 2
     },
     { "Id": 9847362, "Title": "Something Broke", 
@@ -24,7 +24,7 @@
                 "StatusId": 1,
                 "StatusName": "James"
                 "RaisedById": 1,
-                "RaisedByName": "Claire"
+                "RaisedByName": "Claire",
                 "AssignedTo": 2
     }
     
