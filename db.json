@@ -4,30 +4,32 @@
                 "Description": "When I went to do something it broke something!", 
                 "DateRaised": "12/05/2017",
                 "StatusId": 1,
-                "StatusName": "James",
-                "RaisedById": 1,
+                "StatusName": "Open",
+                "RaisedById": 2,
                 "RaisedByName": "Claire",
-                "AssignedTo": 2
+                "AssignedToId": 1,
+                "AssignedToName": "James" 
     },
-    { "Id": 6546463, "Title": "Something Broke", 
+    { "Id": 1758473, "Title": "Something Broke", 
                 "Description": "When I went to do something it broke something!", 
                 "DateRaised": "12/05/2017",
                 "StatusId": 1,
-                "StatusName": "James",
-                "RaisedById": 1,
+                "StatusName": "Open",
+                "RaisedById": 2,
                 "RaisedByName": "Claire",
-                "AssignedTo": 2
+                "AssignedToId": 1,
+                "AssignedToName": "James" 
     },
-    { "Id": 9847362, "Title": "Something Broke", 
+    { "Id": 1758473, "Title": "Something Broke", 
                 "Description": "When I went to do something it broke something!", 
                 "DateRaised": "12/05/2017",
                 "StatusId": 1,
-                "StatusName": "James",
-                "RaisedById": 1,
+                "StatusName": "Open",
+                "RaisedById": 2,
                 "RaisedByName": "Claire",
-                "AssignedTo": 2
+                "AssignedToId": 1,
+                "AssignedToName": "James" 
     }
-    
   ],
   "status":[
     {"Id": 1, "Name": "Open", "Description": "Always use when incident first raised"},
