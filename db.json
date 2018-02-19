@@ -4,7 +4,7 @@
                 "Description": "When I went to do something it broke something!", 
                 "DateRaised": "12/05/2017",
                 "StatusId": 1,
-                "StatusName": "James"
+                "StatusName": "James",
                 "RaisedById": 1,
                 "RaisedByName": "Claire",
                 "AssignedTo": 2
@@ -13,7 +13,7 @@
                 "Description": "When I went to do something it broke something!", 
                 "DateRaised": "12/05/2017",
                 "StatusId": 1,
-                "StatusName": "James"
+                "StatusName": "James",
                 "RaisedById": 1,
                 "RaisedByName": "Claire",
                 "AssignedTo": 2
@@ -22,7 +22,7 @@
                 "Description": "When I went to do something it broke something!", 
                 "DateRaised": "12/05/2017",
                 "StatusId": 1,
-                "StatusName": "James"
+                "StatusName": "James",
                 "RaisedById": 1,
                 "RaisedByName": "Claire",
                 "AssignedTo": 2
