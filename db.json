@@ -7,8 +7,11 @@
                 "StatusName": "Open",
                 "RaisedById": 2,
                 "RaisedByName": "Claire",
-                "AssignedToId": 1,
-                "AssignedToName": "James" 
+                "AssignedTo": {
+                               "TeamMember":{"AssignedToId": 1,"AssignedToName": "James"},
+                               "TeamMember":{"AssignedToId": 2,"AssignedToName": "Claire"}
+                              }
+                              
     },
     { "Id": 1758473, "Title": "Something Broke", 
                 "Description": "When I went to do something it broke something!", 
@@ -17,8 +20,10 @@
                 "StatusName": "Open",
                 "RaisedById": 2,
                 "RaisedByName": "Claire",
-                "AssignedToId": 1,
-                "AssignedToName": "James" 
+                "AssignedTo": {
+                               "TeamMember":{"AssignedToId": 1,"AssignedToName": "James"},
+                               "TeamMember":{"AssignedToId": 2,"AssignedToName": "Claire"}
+                              }
     },
     { "Id": 1758473, "Title": "Something Broke", 
                 "Description": "When I went to do something it broke something!", 
@@ -27,8 +32,10 @@
                 "StatusName": "Open",
                 "RaisedById": 2,
                 "RaisedByName": "Claire",
-                "AssignedToId": 1,
-                "AssignedToName": "James" 
+                "AssignedTo": {
+                               "TeamMember":{"AssignedToId": 1,"AssignedToName": "James"},
+                               "TeamMember":{"AssignedToId": 2,"AssignedToName": "Claire"}
+                              }
     }
   ],
   "status":[
@@ -40,3 +47,4 @@
     {"Id": 2, "Name": "Claire"}
   ]
 }
+
